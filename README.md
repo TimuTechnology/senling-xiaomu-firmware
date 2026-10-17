@@ -116,7 +116,7 @@ AGPL-3.0 is a strong copyleft license. In simple terms, you are free to use, mod
 
 - **Email:** wangjing@timuai.com
 - **Website:** https://store.timuai.com
-
+- **Discord:** https://discord.gg/ZczdPdmmrK
 ---
 
 *XiaoMu is still young, and so are we. Let's make her better together.* ❤️
