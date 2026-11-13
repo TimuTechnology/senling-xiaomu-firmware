@@ -3,7 +3,7 @@
 **XiaoMu Main Control Firmware – Motor Control · Sensor Fusion · Multimodal Interaction**
 
 [![License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
-[![ROS2](https://img.shields.io/badge/ROS2-Humble-brightgreen)](https://docs.ros.org/en/humble/)
+[![ROS2](https://img.shields.io/badge/ROS2-Iron-brightgreen)](https://docs.ros.org/en/iron/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 
 ---
@@ -20,7 +20,7 @@ This repository contains the open-source **brain (main control) firmware** for X
 
 ## ✨ Key Features
 
-- **Native ROS 2 Support** – Built on ROS 2 Humble with a node-based architecture for easy secondary development
+- **Native ROS 2 Support** – Built on ROS 2 Iron with a node-based architecture for easy secondary development
 - **Multi-DOF Motion Control** – Supports coordinated control of pitch, yaw, and Dock rotation
 - **Multi-Sensor Fusion** – Integrates temperature/humidity, gyroscope, touch, vision, audio, and other sensor data
 - **Expression & Behavior System** – Supports dynamic expressions, proactive behavior triggers, and personalized interaction
@@ -50,7 +50,7 @@ xiaomu-firmware/
 ### Requirements
 
 - Ubuntu 22.04 (recommended)
-- ROS 2 Humble
+- ROS 2 Iron
 - Python 3.9+
 - XiaoMu Programming Edition robot (for deployment)
 
